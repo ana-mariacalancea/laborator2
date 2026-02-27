@@ -22,18 +22,7 @@ public class Student {
 		int x = 100;
 	}
 	
-	void print2(){
-		int x = 100;
-	}
-	void print3(){
-		int y = 200;
-		System.out.println("de implementat print3 "+y);
-	}
-	
-	void print100000() {
-		//sdfsdfsd
-	}
-	
+
 	void print200000() {
 		System.out.println("sdfdsf");
 	}
